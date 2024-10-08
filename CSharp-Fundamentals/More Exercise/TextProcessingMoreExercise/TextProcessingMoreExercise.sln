@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractPersonInformation", "ExtractPersonInformation\ExtractPersonInformation.csproj", "{701710B8-E1B5-4D1B-AEE4-42B47A993DCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsciiSumator", "AsciiSumator\AsciiSumator.csproj", "{FF5F7EB9-C693-49DE-9404-1F2C16DA16B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureFinder", "TreasureFinder\TreasureFinder.csproj", "{1F38E981-9B59-48E6-BE26-763492A7B972}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorseCodeTranslator", "MorseCodeTranslator\MorseCodeTranslator.csproj", "{4271C43F-3A55-42B7-8310-EEC18EC5DB32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML", "HTML\HTML.csproj", "{21285E6A-E5F8-4D90-B6C6-CFD7F9E23904}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestPalindromeSubList", "LongestPalindromeSubList\LongestPalindromeSubList.csproj", "{E0DB879F-4EA2-4291-AAF9-520D4B97A3A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{701710B8-E1B5-4D1B-AEE4-42B47A993DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701710B8-E1B5-4D1B-AEE4-42B47A993DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701710B8-E1B5-4D1B-AEE4-42B47A993DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701710B8-E1B5-4D1B-AEE4-42B47A993DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF5F7EB9-C693-49DE-9404-1F2C16DA16B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5F7EB9-C693-49DE-9404-1F2C16DA16B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5F7EB9-C693-49DE-9404-1F2C16DA16B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5F7EB9-C693-49DE-9404-1F2C16DA16B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F38E981-9B59-48E6-BE26-763492A7B972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F38E981-9B59-48E6-BE26-763492A7B972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F38E981-9B59-48E6-BE26-763492A7B972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F38E981-9B59-48E6-BE26-763492A7B972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4271C43F-3A55-42B7-8310-EEC18EC5DB32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4271C43F-3A55-42B7-8310-EEC18EC5DB32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4271C43F-3A55-42B7-8310-EEC18EC5DB32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4271C43F-3A55-42B7-8310-EEC18EC5DB32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21285E6A-E5F8-4D90-B6C6-CFD7F9E23904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21285E6A-E5F8-4D90-B6C6-CFD7F9E23904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21285E6A-E5F8-4D90-B6C6-CFD7F9E23904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21285E6A-E5F8-4D90-B6C6-CFD7F9E23904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0DB879F-4EA2-4291-AAF9-520D4B97A3A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0DB879F-4EA2-4291-AAF9-520D4B97A3A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0DB879F-4EA2-4291-AAF9-520D4B97A3A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0DB879F-4EA2-4291-AAF9-520D4B97A3A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEB08C38-3D18-464A-9CF0-C54783F7C0BA}
+	EndGlobalSection
+EndGlobal
