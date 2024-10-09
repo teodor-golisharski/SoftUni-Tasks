@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodFinder", "FoodFinder\FoodFinder.csproj", "{AF96A4DB-E204-4F29-8756-406494741DC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PawnWars", "PawnWars\PawnWars.csproj", "{46215CFB-A090-4986-94B2-EB6704DE2367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockMarket", "StockMarket\StockMarket.csproj", "{FD12EA59-09E3-4F85-AD4E-D81FA8A2B04D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF96A4DB-E204-4F29-8756-406494741DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF96A4DB-E204-4F29-8756-406494741DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF96A4DB-E204-4F29-8756-406494741DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF96A4DB-E204-4F29-8756-406494741DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46215CFB-A090-4986-94B2-EB6704DE2367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46215CFB-A090-4986-94B2-EB6704DE2367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46215CFB-A090-4986-94B2-EB6704DE2367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46215CFB-A090-4986-94B2-EB6704DE2367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD12EA59-09E3-4F85-AD4E-D81FA8A2B04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD12EA59-09E3-4F85-AD4E-D81FA8A2B04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD12EA59-09E3-4F85-AD4E-D81FA8A2B04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD12EA59-09E3-4F85-AD4E-D81FA8A2B04D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFDB1444-58E4-4E0E-A360-E62FA6AFBB44}
+	EndGlobalSection
+EndGlobal
