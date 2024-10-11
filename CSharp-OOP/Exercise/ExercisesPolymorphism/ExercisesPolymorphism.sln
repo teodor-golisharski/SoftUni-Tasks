@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicles", "Vehicles\Vehicles.csproj", "{875324B6-F1FE-48B8-93FC-82B435964DCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raiding", "Raiding\Raiding.csproj", "{B9633071-C4AA-473E-8DCE-240D9B3D9BEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildFarm", "WildFarm\WildFarm.csproj", "{778CD36B-5D47-48D0-A1FF-86D6939D7336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{875324B6-F1FE-48B8-93FC-82B435964DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875324B6-F1FE-48B8-93FC-82B435964DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875324B6-F1FE-48B8-93FC-82B435964DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875324B6-F1FE-48B8-93FC-82B435964DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9633071-C4AA-473E-8DCE-240D9B3D9BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9633071-C4AA-473E-8DCE-240D9B3D9BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9633071-C4AA-473E-8DCE-240D9B3D9BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9633071-C4AA-473E-8DCE-240D9B3D9BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{778CD36B-5D47-48D0-A1FF-86D6939D7336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778CD36B-5D47-48D0-A1FF-86D6939D7336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778CD36B-5D47-48D0-A1FF-86D6939D7336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778CD36B-5D47-48D0-A1FF-86D6939D7336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74A0335C-0635-4267-9C60-710FCFBA7EE1}
+	EndGlobalSection
+EndGlobal
