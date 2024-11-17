@@ -1,0 +1,76 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: Helvetica, sans-serif;
+}
+
+body{
+    padding: 3em;
+}
+
+.container{
+    padding: 3em;
+    background: #1881B6;
+    display: flex;
+    border: 5px solid black;
+    border-radius: 2em;
+
+}
+
+.content-section{
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
+.content-section h2{
+    margin-top: 1em;
+    text-transform: uppercase;
+    font-size: 1.7vw;
+
+}
+
+.content-section h1{
+    color: #FFF;
+    margin-top: 1em;
+    font-weight: 400;
+    font-size: 3vw;
+}
+
+.content-section p{
+    margin-top: 1em;
+    padding-right: 3em;
+    text-indent: 50px;
+    font-size: 1.2vw;
+    line-height: 2.5vw;
+}
+
+img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.button-container{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 2em;
+}
+
+.button-container .individual-button a{
+    color: black;
+    font-weight: bolder;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 0.5em;
+    padding: 0.7em 1em;
+    font-size: 1vw;
+}
+
+.button-container .contact a{
+    background-color: #B6416D;
+    color: #FFF;
+}
